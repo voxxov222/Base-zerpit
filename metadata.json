@@ -1,0 +1,5 @@
+{
+  "name": "Zerpit v2",
+  "description": "A futuristic, 3D-styled interactive mind map utilizing Gemini Flash for real-time search and Gemini Pro Thinking for deep analysis.",
+  "requestFramePermissions": []
+}
